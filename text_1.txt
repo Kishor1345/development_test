@@ -6,3 +6,4 @@ Frontend_version4
 Frontend_version5
 Frontend_version6
 Frontend_version7
+Frontend_version8
